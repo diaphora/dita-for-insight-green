@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_fj1_d54_vbb">
+    <title>How to Transfer Digital Currencies Between Wallets</title>
+    <shortdesc>How to send digital currencies from one digital-currency wallet to another, either
+        between a pair of your own accounts (such as accounts with <xref
+            href="https://www.coinbase.com" format="html" scope="external">Coinbase</xref> or <xref
+            href="https://poloniex.com" format="html" scope="external">Poloniex</xref>) or to a
+        third-party recipient, using Bitcoin as an example.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="2017-11-11"/>
+            <revised modified="2017-11-18"/>
+        </critdates>
+    </prolog>
+    <taskbody>
+        <prereq id="prereq_mpx_ls4_vbb">Completing the following instructions requires you to have
+                already:<ol id="ol_ah1_ns4_vbb">
+                <li><xref
+                        href="../Coinbase/create_a_coinbase_account.dita#create_a_coinbase_account"
+                        >Created a Coinbase account</xref>. </li>
+                <li>Purchased Bitcoin (BTC), Ethereum (ETH), or Litecoin (LTC) using your Coinbase
+                    account. </li>
+                <li><xref
+                        href="../Poloniex/create_a_poloniex_account.dita#create_a_poloniex_account"
+                        >Created a Poloniex account</xref>.</li>
+            </ol></prereq>
+        <context>The following steps will teach you how to send and receive digital currencies from
+            your Coinbase and Poloniex accounts, using a transfer from your Coinbase account to your
+            Poloniex account to provide you with hands-on experience in safely performing these
+            transfers.<p/></context>
+        <steps>
+            <step>
+                <cmd>Log in to your account on <xref href="https://www.poloniex.com" format="html"
+                        scope="external">Poloniex</xref>.</cmd>
+            </step>
+            <step>
+                <cmd>After logging in to Poloniex, select "Balances" from the website header.</cmd>
+            </step>
+            <step>
+                <cmd>Choose "Balances and Withdrawals" from the dropdown menu.</cmd>
+            </step>
+            <step>
+                <cmd>On the "Balances, Withdrawals, and Holdings" page for your Poloniex account,
+                    you will see a table listing the total digital currencies that a user may hold
+                    in a Poloniex account. </cmd>
+            </step>
+            <step>
+                <cmd>For the purposes of these instructions, please locate "BTC" in the table's
+                    "Coin" column. On the far right of that row, you should see links for both
+                    "Deposit" and "Withdrawal." Please select the "Deposit" link.</cmd>
+            </step>
+            <step>
+                <cmd>After clicking the "Deposit" link, copy the text representing the depost
+                    address of the digital wallet that will receive your upcoming transfer from
+                    Coinbase. (Tip: paste this text into a temporary document.) You may also choose
+                    to reveal the depost address of your digital wallet as a QR code:<image
+                        href="Transfers%20Visuals/01%20polo%20deposit%20address.png"
+                        id="image_rjb_dwp_xbb"/></cmd>
+            </step>
+            <step>
+                <cmd>Log in to your account on <xref href="https://www.coinbase.com" format="html"
+                        scope="external">Coinbase</xref>.</cmd>
+            </step>
+            <step>
+                <cmd>Select the "<xref href="https://www.coinbase.com/accounts/" format="html"
+                        scope="external">Accounts</xref>" tab at the top of the Coinbase website
+                    .</cmd>
+            </step>
+            <step>
+                <cmd>Though you may choose the Bitcoin, Ethereum, or Litecoin "wallet" from which
+                    you would like to perform a transfer to your Poloniex account, please choose
+                    your Bitcoin wallet for the purposes of completing this task.</cmd>
+            </step>
+            <step>
+                <cmd>After choosing your Bitcoin wallet, click on the "Send" icon: <image
+                        href="Transfers%20Visuals/02%20coinbase%20send%20button.png"
+                        id="image_psk_fwp_xbb"/></cmd>
+            </step>
+            <step>
+                <cmd>Clicking the "Send" icon from Step 10 of these instructions will produce the
+                    following pop-up from the Coinbase website:<image
+                        href="Transfers%20Visuals/03%20coinbase%20transfer.png"
+                        id="image_slx_fwp_xbb"/></cmd>
+            </step>
+            <step>
+                <cmd>Copy the digital deposit address from your Poloniex account into the
+                    "Recipient" field shown in the image accompanying Step 11. Add any note you find
+                    appropriate to append to this transfer, and hit "Continue."</cmd>
+            </step>
+            <step>
+                <cmd>Coinbase will produce a final pop-up to verify your transfer request, which you
+                    can verify by selecting "Confirm."</cmd>
+            </step>
+            <step>
+                <cmd>After you have hit confirm, Coinbase will provide you with a link to a page on
+                        <xref href="https://www.blockcypher.com/" format="html" scope="external"
+                        >BlockCypher</xref> that you can use to wach the progress of your
+                    transaction in real time. </cmd>
+            </step>
+            <step>
+                <cmd>When the transaction details listed on <xref
+                        href="https://www.blockcypher.com/" format="html" scope="external"
+                        >BlockCyber</xref> have received six or more confirmations from transaction
+                    processors, the transaction has been completed.</cmd>
+            </step>
+            <step>
+                <cmd>Return to your Poloniex account, and you now will see the amount you
+                    transferred from the Bitcoin wallet of your Coinbase account now appears among
+                    the total holdings of Bitcoin in your account own Poloniex.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="../Coinbase/create_a_coinbase_account.dita#create_a_coinbase_account"/>
+        <link href="../Poloniex/create_a_poloniex_account.dita#create_a_poloniex_account"/>
+    </related-links>
+</task>
