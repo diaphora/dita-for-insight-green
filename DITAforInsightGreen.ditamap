@@ -2,4 +2,9 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>InsightGreen</title>
+    <topicgroup collection-type="sequence" type="task" format="dita">
+        <topicref href="Tasks/Coinbase/create_a_coinbase_account.dita"/>
+        <topicref href="Tasks/Poloniex/create_a_poloniex_account.dita"/>
+        <topicref href="Tasks/Transfers/transferring-currencies.dita"/>
+    </topicgroup>
 </map>
