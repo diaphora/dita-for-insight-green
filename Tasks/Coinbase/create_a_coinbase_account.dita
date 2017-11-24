@@ -2,9 +2,10 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="create_a_coinbase_account">
     <title>How to Create a Coinbase Account</title>
-    <shortdesc>How to create a <xref href="https://www.coinbase.com/" format="html" scope="external"
-            >Coinbase</xref> account ("wallet") to purchase, sell, store, send, or receive Bitcoin
-        (BTC), Ethereum (ETH), or Litecoin (LTC).</shortdesc>
+    <shortdesc>How to create a <xref
+            href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.coinbase.com%2Fjoin%2F591f22d10c80e205bae7e75a&amp;h=ATMkeOLComQMcJM0sSVrT9WrgEWCvFE_kVZPJkOevvalY80G7ZOZ5zxLR2WOYNJsKNwv1KVrCU4AUmnGS8L0uQls8uWa6Bgec7A7LfwOdpP7U9jGi0PH3cE0Kk9DsV4-H8AM6hAwDQk9gB4VRnjE-hU3bNq3"
+            format="html" scope="external">Coinbase</xref> account ("wallet") to purchase, sell,
+        store, send, or receive Bitcoin (BTC), Ethereum (ETH), or Litecoin (LTC).</shortdesc>
     <prolog>
         <critdates>
             <created date="2017-11-11"/>
@@ -12,7 +13,8 @@
         </critdates>
     </prolog>
     <taskbody>
-        <prereq id="prereq_mpx_ls4_vbb">creating a <xref href="https://www.coinbase.com/"
+        <prereq id="prereq_mpx_ls4_vbb">creating a <xref
+                href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.coinbase.com%2Fjoin%2F591f22d10c80e205bae7e75a&amp;h=ATMkeOLComQMcJM0sSVrT9WrgEWCvFE_kVZPJkOevvalY80G7ZOZ5zxLR2WOYNJsKNwv1KVrCU4AUmnGS8L0uQls8uWa6Bgec7A7LfwOdpP7U9jGi0PH3cE0Kk9DsV4-H8AM6hAwDQk9gB4VRnjE-hU3bNq3"
                 format="html" scope="external">Coinbase</xref> account will require:<ol
                 id="ol_ah1_ns4_vbb">
                 <li>A personal computer <b>with Internet access</b>.</li>
@@ -24,15 +26,17 @@
                     network.</li>
             </ol></prereq>
         <context>After competing each of the sub-tasks below, you will have created a secure <xref
-                href="https://www.coinbase.com/" format="html" scope="external">Coinbase</xref>
-            account you can use to buy, sell, or transfer digital currencies. <p/></context>
+                href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.coinbase.com%2Fjoin%2F591f22d10c80e205bae7e75a&amp;h=ATMkeOLComQMcJM0sSVrT9WrgEWCvFE_kVZPJkOevvalY80G7ZOZ5zxLR2WOYNJsKNwv1KVrCU4AUmnGS8L0uQls8uWa6Bgec7A7LfwOdpP7U9jGi0PH3cE0Kk9DsV4-H8AM6hAwDQk9gB4VRnjE-hU3bNq3"
+                format="html" scope="external">Coinbase</xref> account you can use to buy, sell, or
+            transfer digital currencies. <p/></context>
         <steps>
             <step>
                 <cmd>Open your Internet browser.</cmd>
             </step>
             <step>
-                <cmd>Navigate to <xref href="https://www.coinbase.com/" format="html"
-                        scope="external"/></cmd>
+                <cmd>Navigate to <xref
+                        href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.coinbase.com%2Fjoin%2F591f22d10c80e205bae7e75a&amp;h=ATMkeOLComQMcJM0sSVrT9WrgEWCvFE_kVZPJkOevvalY80G7ZOZ5zxLR2WOYNJsKNwv1KVrCU4AUmnGS8L0uQls8uWa6Bgec7A7LfwOdpP7U9jGi0PH3cE0Kk9DsV4-H8AM6hAwDQk9gB4VRnjE-hU3bNq3"
+                        format="html" scope="external">https://www.coinbase.com</xref></cmd>
             </step>
             <step>
                 <cmd>Select "<xref href="https://www.coinbase.com/signup" format="html"
